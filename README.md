@@ -18,7 +18,7 @@ Every glitter bomb is a Python script. When you run the script, follow the instr
 
 ## Contributions
 
-If you create a bomb that you want to share with the community, you can [create a pull request](https://help.github.com/articles/creating-a-pull-request/) and add it to this repository. Community glitter bombs must meet these requirements:
+If you create a bomb that you want to share with the community, you can [create a pull request](https://help.github.com/articles/creating-a-pull-request/) and add it to this repository in the `community` folder. Community glitter bombs must meet these requirements:
 
 - [x] Can be used by any teachers or learners for free
 - [x] Uses a filename that is not already taken
