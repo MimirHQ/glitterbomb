@@ -18,6 +18,12 @@ STRINGS = {
         "disarmed": "The glitter bomb was safely disarmed",
         "detonated": "The glitter bomb detonated!",
         "spacer": "...",
+    },
+    "spanish": {
+        "win": "Ya ganaste!",
+        "disarmed": "La bomba de purpurina fue desarmado con cuidado",
+        "detonated": "La bomba de purpurina explotó!",
+        "spacer": "...",
     }
 }
 
@@ -44,7 +50,7 @@ class Colors:
     @staticmethod
     def random():
         """gets a random color value"""
-        options = [v for k, v in dict(vars(Colors)).items() if k[0:2] != "__"]
+        options = [v for k, v in dict(vars(Colors)).items() if k[0] != "_" and k != "random"]
         return choice(options)
 
 
