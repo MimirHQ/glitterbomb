@@ -25,10 +25,7 @@ If you create a bomb that you want to share with the community, you can [create 
 - [x] Includes the author's name, screen name, website link, or other means through which they want to be credited
 - [x] (Preferably) Is contained within a single file, with minimal public package dependencies
 
-If this is your first time creating a pull request or you have other questions, feel free to contact the maintainer:
-
-- Vinesh Kannan
-- vinesh [at] mimirhq [dot] com
+If this is your first time creating a pull request or you have other questions, feel free to contact oer@mimirhq.com
 
 ## About
 
